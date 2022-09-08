@@ -8,32 +8,41 @@ By the end of this practical you will:
 - Be able to create a simple ‘physics enabled’ game object from scratch
 
 ## Task 1: Opening a Unity Project
-In this practical, you will explore and manipulate a pre-existing Unity scene called ‘Robot Lab’. To get started, download the zip file attached to this VLE item named:
 
-•	W2P1_IntroductionToUnity.zip
+In this practical, you will explore and manipulate a pre-existing Unity scene called ‘Robot Lab’. 
 
-The zip file stores a complete Unity project. Unzip the file and explore its contents. You will see that it contains a hierarchy of files and folders, which each store information about different aspects of an Interactive Environment. 
+To get started, make a copy of this repository on your GitHub account and clone it onto your local computer. You can do this by:
+
+- Clicking the "Use this template" button at the top-right on the page
+- Following the instructions in the week 1 section of the VLE to clone a repository onto your local computer
+
+The repository contains a complete Unity project. Look inside the folder. You will see that it contains a hierarchy of files and folders, which each store information about different aspects of an Interactive Environment. 
 
 To complete this task, open the project in Unity. To do this:
-1.	Open the ‘Unity’ application from the start menu
+
+1.	Open the ‘Unity Hub’ application (try searching for it using spotlight if you can't find it)
 2.	Login to your Unity ID account or create one if you don't have it
-3.	Click the ‘Open’ or 'Add' button in the window that appears
-4.	Navigate to and select the root folder of the project you’ve downloaded
+3.	Click the ‘Open’ button in the window that appears
+4.	Navigate to and select the root folder of the project repository you’ve downloaded
 5.	The project should now appear in Unity (it may take some time to load the first time)
 
-Task 2: Running a Unity Scene
+## Task 2: Running a Unity Scene
+
 After the project has finished loading, a warehouse-like environment containing multiple robots should appear in the Scene View. If the scene doesn’t appear, navigate to the ‘Scenes’ folder in the project browser at the bottom of the UI and double click on the file named ‘RobotLab’.
 
 Press the ‘Play’ (black right-facing triangle) icon above the Scene View to run the scene. The scene will load in the ‘Game View’. You can now walk around the scene with standard ‘first person shooter controls’ (i.e. mouse to look and W, S, A and D keys to walk).
 
 To complete this task, walk around to explore the environment. While walking around, try to find some simple things that you might like to change about the scene. When you’ve finished exploring, press the play button again to stop the scene from running and return to the Scene View.
 
-Task 3: Translate, Rotating and Scaling Game Objects
+## Task 3: Translate, Rotating and Scaling Game Objects
+
 You can translate (i.e. move), rotate and scale Game Objects in a Unity scene by clicking and dragging on them within the Scene View. When you click on a Game Object, a transform manipulator (like the one from Maya) will appear. This manipulator will allow you to translate, rotate or scale the object depending on the transform mode selected (using the widget at the top left of the UI).
 
- 
+
 
 Using these transform manipulators, experiment with moving, rotating and scaling some of the game objects in the scene. To complete the task:
+
+
 •	Move the character in the orange suit onto the balcony
 •	Make the large fan smaller
 •	Change the direction that the ‘battering ram’ robot is facing
