@@ -3,11 +3,11 @@
 In this module, you will learn to create Interactive Environments using the Unity platform. In the last lecture you learned the basics of how environments are created and represented within the Unity platform in detail. In this practical class, you are going to get acquainted with Unity by ‘jumping into the deep end’ and exploring a finished project.
 By the end of this practical you will:
 
-•	Have become familiar with the main parts of the Unity user interface
-•	Be able to manipulate the properties of pre-existing game objects
-•	Be able to create a simple ‘physics enabled’ game object from scratch
+- Have become familiar with the main parts of the Unity user interface
+- Be able to manipulate the properties of pre-existing game objects
+- Be able to create a simple ‘physics enabled’ game object from scratch
 
-Task 1: Opening a Unity Project
+## Task 1: Opening a Unity Project
 In this practical, you will explore and manipulate a pre-existing Unity scene called ‘Robot Lab’. To get started, download the zip file attached to this VLE item named:
 
 •	W2P1_IntroductionToUnity.zip
