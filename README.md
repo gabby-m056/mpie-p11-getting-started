@@ -20,11 +20,11 @@ The repository contains a complete Unity project. Look inside the folder. You wi
 
 To complete this task, open the project in Unity. To do this:
 
-1.	Open the ‘Unity Hub’ application (try searching for it using spotlight if you can't find it)
-2.	Login to your Unity ID account or create one if you don't have it
-3.	Click the ‘Open’ button in the window that appears
-4.	Navigate to and select the root folder of the project repository you’ve downloaded
-5.	The project should now appear in Unity (it may take some time to load the first time)
+1. Open the ‘Unity Hub’ application (try searching for it using spotlight if you can't find it)
+2. Login to your Unity ID account or create one if you don't have it
+3. Click the ‘Open’ button in the window that appears
+4. Navigate to and select the root folder of the project repository you’ve downloaded
+5. The project should now appear in Unity (it may take some time to load the first time)
 
 ## Task 2: Running a Unity Scene
 
@@ -42,30 +42,32 @@ You can translate (i.e. move), rotate and scale Game Objects in a Unity scene by
 
 Using these transform manipulators, experiment with moving, rotating and scaling some of the game objects in the scene. To complete the task:
 
+-	Move the character in the orange suit onto the balcony
+-	Make the large fan smaller
+-	Change the direction that the ‘battering ram’ robot is facing
+-	Alter the start position of one of the two large robots to be down the stairs
+-	An additional change to the environment of your choice
 
-•	Move the character in the orange suit onto the balcony
-•	Make the large fan smaller
-•	Change the direction that the ‘battering ram’ robot is facing
-•	Alter the start position of one of the two large robots to be down the stairs
-•	An additional change to the environment of your choice
+## Task 4: Manipulating Parameters Using the Inspector
 
-Task 4: Manipulating Parameters Using the Inspector
 Game Objects typically have parameters that can be manipulated to change their behavior and/or appearance. When a Game Object is selected in the Scene View, you can see and edit its parameters in the Inspector window, to the right of the UI.
 Make the following changes to the Game Objects in the scene, using the inspector.
 
-•	Make the robot arm rotate twice as fast
-•	Decrease the acceleration and turning speed of one of the large robots
-•	Change the image used to texture a part of the floor
-•	An additional change to the environment of your choice
+-	Make the robot arm rotate twice as fast
+-	Decrease the acceleration and turning speed of one of the large robots
+-	Change the image used to texture a part of the floor
+-	An additional change to the environment of your choice
 
 To finish the task, try and edit the parameters of some Game Objects while the scene is running (you may need to switch from the ‘Game View’ tab to the ‘Scene View’ tab to do this) and observe what happens.
-Task 5: Adding a Bouncing Sphere to the Scene
+
+## Task 5: Adding a Bouncing Sphere to the Scene
 In the lecture, you saw how to create a simple ‘physics-enabled’ bouncing ball Game Object. To complete this practical, follow the steps below to add a similar sphere to the Robot Lab scene:
-1.	Create a new game object using a sphere primitive (Game Object → 3D Object → Sphere)
-2.	Rename the new object to be called ‘Bouncy Ball’
-3.	Add a ‘Rigidbody’ physics component to the object, so that it obeys the laws of physics
-4.	Create a new ‘Physic Material’ (Assets → Create → Physic Material) and set its bounciness to 1
-5.	Assign your physic material to your sphere’s ‘Sphere Collider’
+
+1. Create a new game object using a sphere primitive (Game Object → 3D Object → Sphere)
+2. Rename the new object to be called ‘Bouncy Ball’
+3. Add a ‘Rigidbody’ physics component to the object, so that it obeys the laws of physics
+4. Create a new ‘Physic Material’ (Assets → Create → Physic Material) and set its bounciness to 1
+5. Assign your physic material to your sphere’s ‘Sphere Collider’
 
 Press play, and observe whether your sphere interacts with the environment as expected. Does the ball keep bouncing or come to a stop? Can the physic material be altered to make the ball bounce forever?
 
