@@ -71,3 +71,8 @@ In the lecture, you saw how to create a simple ‘physics-enabled’ bouncing ba
 
 Press play, and observe whether your sphere interacts with the environment as expected. Does the ball keep bouncing or come to a stop? Can the physic material be altered to make the ball bounce forever?
 
+## Task 6: Getting a Head Start with C#
+This module uses C# as its main programming language, becuase this is what Unity requires. If you're not familiar with C# we have created [this tutorial](https://github.com/UoY-IM-MPIE/mpie-cs-tutorial/) to help you make the transition. We'll be covering some of the differences between the two languages in the next lecture. However, we reccomend that you get a head start (and some hands-on experince) by completing the tutorial in this class.
+
+
+
