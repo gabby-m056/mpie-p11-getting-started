@@ -28,9 +28,9 @@ To complete this task, open the project in Unity. To do this:
 
 ## Task 2: Running a Unity Scene
 
-After the project has finished loading, a warehouse-like environment containing multiple robots should appear in the Scene View. If the scene doesn’t appear, navigate to the ‘Scenes’ folder in the project browser at the bottom of the UI and double click on the file named ‘RobotLab’.
+After the project has finished loading, a warehouse-like environment containing multiple robots should appear in the Scene View. If the scene does not appear, navigate to the ‘Scenes’ folder in the project browser at the bottom of the UI and double-click on the file named ‘RobotLab’.
 
-Press the ‘Play’ (black right-facing triangle) icon above the Scene View to run the scene. The scene will load in the ‘Game View’. You can now walk around the scene with standard ‘first person shooter controls’ (i.e. mouse to look and W, S, A and D keys to walk).
+Press the ‘Play’ (black right-facing triangle) icon above the Scene View to run the scene. The scene will load in the ‘Game View’. You can now walk around the scene with standard ‘first-person shooter controls’ (i.e. mouse to look and W, S, A and D keys to walk).
 
 To complete this task, walk around to explore the environment. While walking around, try to find some simple things that you might like to change about the scene. When you’ve finished exploring, press the play button again to stop the scene from running and return to the Scene View.
 
@@ -72,7 +72,7 @@ In the lecture, you saw how to create a simple ‘physics-enabled’ bouncing ba
 Press play, and observe whether your sphere interacts with the environment as expected. Does the ball keep bouncing or come to a stop? Can the physic material be altered to make the ball bounce forever?
 
 ## Task 6: Getting a Head Start with C#
-This module uses C# as its main programming language, becuase this is what Unity requires. If you're not familiar with C# we have created [this tutorial](https://github.com/UoY-IM-MPIE/mpie-cs-tutorial/) to help you make the transition. We'll be covering some of the differences between the two languages in the next lecture. However, we reccomend that you get a head start (and some hands-on experince) by completing the tutorial in this class.
+This module uses C# as its main programming language, because this is what Unity requires. If you're not familiar with C# we have created [this tutorial](https://github.com/UoY-IM-MPIE/mpie-cs-tutorial/) to help you make the transition. We'll be covering some of the differences between the two languages in the next lecture. However, we recommend that you get a head start (and some hands-on experience) by completing the tutorial in this class.
 
 
 
