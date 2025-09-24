@@ -13,6 +13,7 @@ In this practical, you will explore and manipulate a pre-existing Unity scene ca
 
 To get started, make a copy of this repository on your GitHub account and clone it onto your local computer. You can do this by:
 
+- Signing into GitHub
 - Clicking the "Use this template" button at the top-right on the page
 - Following the instructions in the week 1 section of the VLE to clone a repository onto your local computer
 
