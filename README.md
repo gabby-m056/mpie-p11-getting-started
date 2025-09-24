@@ -37,7 +37,7 @@ To complete this task, walk around to explore the environment. While walking aro
 
 ## Task 3: Translate, Rotating and Scaling Game Objects
 
-You can translate (i.e. move), rotate and scale Game Objects in a Unity scene by clicking and dragging on them within the Scene View. When you click on a Game Object, a transform manipulator (like the one from Blender) will appear. This manipulator will allow you to translate, rotate or scale the object depending on the transform mode selected (using the widget at the top left of the UI).
+You can translate (i.e. move), rotate and scale Game Objects in a Unity scene by clicking and dragging on them within the Scene View. When you click on a Game Object, a transform manipulator (like the one from Blender) will appear. This manipulator will allow you to translate, rotate or scale the object depending on the transform mode selected (using the widget at the top left of the Scene View).
 
 ![Image showing transform manipulators](https://github.com/UoY-IM-MPIE/mpie-p11-getting-started/blob/main/Instructions/transform-manipulator.png)
 
@@ -62,11 +62,11 @@ Make the following changes to the Game Objects in the scene, using the inspector
 To finish the task, try and edit the parameters of some Game Objects while the scene is running (you may need to switch from the ‘Game View’ tab to the ‘Scene View’ tab to do this) and observe what happens.
 
 ## Task 5: Adding a Bouncing Sphere to the Scene
-In the lecture, you saw how to create a simple ‘physics-enabled’ bouncing ball Game Object. To complete this practical, follow the steps below to add a similar sphere to the Robot Lab scene:
+In the lecture, you saw how to add components to a Game Object. To complete this practical, follow the steps below to create a Bouncy Ball:
 
 1. Create a new game object using a sphere primitive (Game Object → 3D Object → Sphere)
 2. Rename the new object to be called ‘Bouncy Ball’
-3. Add a ‘Rigidbody’ physics component to the object, so that it obeys the laws of physics
+3. Add a ‘Rigidbody’ physics component to the object, so that it obeys the laws of physics (Add Component → Physics → Rigidbody)
 4. Create a new ‘Physic Material’ (Assets → Create → Physic Material) and set its bounciness to 1
 5. Assign your physic material to your sphere’s ‘Sphere Collider’
 
