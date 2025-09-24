@@ -37,7 +37,7 @@ To complete this task, walk around to explore the environment. While walking aro
 
 ## Task 3: Translate, Rotating and Scaling Game Objects
 
-You can translate (i.e. move), rotate and scale Game Objects in a Unity scene by clicking and dragging on them within the Scene View. When you click on a Game Object, a transform manipulator (like the one from Maya) will appear. This manipulator will allow you to translate, rotate or scale the object depending on the transform mode selected (using the widget at the top left of the UI).
+You can translate (i.e. move), rotate and scale Game Objects in a Unity scene by clicking and dragging on them within the Scene View. When you click on a Game Object, a transform manipulator (like the one from Blender) will appear. This manipulator will allow you to translate, rotate or scale the object depending on the transform mode selected (using the widget at the top left of the UI).
 
 ![Image showing transform manipulators](https://github.com/UoY-IM-MPIE/mpie-p11-getting-started/blob/main/Instructions/transform-manipulator.png)
 
